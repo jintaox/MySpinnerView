@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- 加上主题样式. -->
+    <style name="MySpinnerWindowStyle">
+        <item name="android:windowEnterAnimation">@anim/spinner_anim_window_show</item>
+        <item name="android:windowExitAnimation">@anim/spinner_anim_window_dismiss</item>
+    </style>
+</resources>
